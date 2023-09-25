@@ -1,0 +1,60 @@
+body{
+    background-color: white !important; 
+    font-family: Andale Mono, monospace;
+    padding-bottom: 50px;
+}
+
+body h1{
+    text-align: center;
+    padding-top: 100px;
+    font-family: Andale Mono, monospace;
+}
+
+.btn{
+    color: rgb(0, 0, 0) !important;
+    border-color: rgb(255, 252, 238) !important;
+}
+
+.btn:hover:hover, .btn:focus:focus, .btn:active, .btn.active, .open>.dropdown-toggle.btn {
+    background-color:rgb(255, 239, 187);
+    border-color: rgb(255, 239, 187);
+}
+
+.btn-search{
+    background-color: rgb(255, 239, 187) !important;
+}
+
+.btn-search:hover:hover{
+    background-color:rgb(255, 228, 140) !important;
+    border-color: rgb(255, 228, 140) !important;
+}
+
+.disabled{
+    color: rgb(204, 204, 204) !important;
+}
+
+.accordion-container{
+    padding-top: 100px;
+}
+
+.container{
+    font-family: Andale Mono, monospace;
+}
+
+.card-container{
+    padding-top: 50px;
+}
+
+img {
+    width: 200px; 
+    height: 600px;
+    object-fit: cover;
+}
+
+.table{
+    font-size: 10;
+}
+
+.table-container{
+    padding-top: 70px;
+}
