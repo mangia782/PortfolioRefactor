@@ -13,6 +13,10 @@ body h1{
 .btn{
     color: rgb(0, 0, 0) !important;
     border-color: rgb(255, 252, 238) !important;
+}
+
+
+.btn-card{
     background-color:rgb(255, 239, 187) !important;
 }
 
